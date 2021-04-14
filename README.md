@@ -1,3 +1,7 @@
+# Introduction
+This repository is a fork of the MS-TCN++ model from the paper of Shijie Li et al. For the original model we refer to their [repository](https://github.com/sj-li/MS-TCN2). We will use this model for scoring cow Lameness. An example of scoring cow lameness can be found [here](https://www.youtube.com/watch?v=yldSs75RYTQ). This project is a work in progress and far from finished.  
+
+
 # MS-TCN++: Multi-Stage Temporal Convolutional Network for Action Segmentation (TPAMI 2020)
 
 This repository provides a PyTorch implementation of the paper [MS-TCN++: Multi-Stage Temporal Convolutional Network for Action Segmentation](https://arxiv.org/pdf/2006.09220.pdf).
